@@ -1,9 +1,9 @@
-Developer Interface
+开发者接口
 ===================
 
-This part of the documentation covers all interfaces of Flask-WTF.
+该部分文档涵盖了 Flask-WTF 的全部接口。
 
-Forms and Fields
+表单和字段
 ----------------
 
 .. module:: flask_wtf
@@ -57,7 +57,7 @@ Forms and Fields
 .. autoclass:: DecimalRangeField
 
 
-CSRF Protection
+CSRF 保护
 ---------------
 
 .. module:: flask_wtf.csrf

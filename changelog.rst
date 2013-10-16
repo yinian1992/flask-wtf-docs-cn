@@ -1,7 +1,7 @@
-Flask-WTF Changelog
+Flask-WTF 变更日志
 ===================
 
-Full list of changes between each Flask-WTF release.
+Flask-WTF 的版本间差异的完整列表。
 
 Version 0.9.2
 -------------

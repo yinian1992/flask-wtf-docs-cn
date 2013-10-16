@@ -16,7 +16,7 @@ Flask-WTF
 特性
 --------
 
-* 与 wtforms 的集成。
+* 与 WTForms 的集成。
 * 带有 CSRF 令牌的安全表单。
 * 全局的 CSRF 保护。
 * Recaptcha 支持。
